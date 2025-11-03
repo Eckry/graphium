@@ -26,3 +26,8 @@ export const STATES = {
   ADD_NODES: 'ADD_NODES',
   ADD_EDGES: 'ADD_EDGES'
 } as const
+
+export const SPATIAL_HASHING = {
+  cellColor: 'gray',
+  strokeColor: '#212121'
+}
